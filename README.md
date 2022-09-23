@@ -1,1 +1,1 @@
-### std-dev
+### @rjmacarthy/std-dev

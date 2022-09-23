@@ -1,1 +1,1 @@
-### @rjmacarthy/std-dev
+### std-deviation

@@ -1,1 +1,1 @@
-### standard-deviation
+### std-dev

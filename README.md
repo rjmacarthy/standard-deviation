@@ -1,1 +1,1 @@
-### @rjmacarthy/standard-deviation
+### standard-deviation
